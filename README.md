@@ -7,7 +7,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. \**Corresponding author. †Project lead.
 > 
-> [**[arXiv]**]() [**[Paper with Code]**]()
+> [**[arXiv]**](https://arxiv.org/abs/2502.14063) [**[Paper with Code]**](https://paperswithcode.com/paper/peddet-adaptive-spectral-optimization-for)
 >
 
 
