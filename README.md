@@ -3,9 +3,9 @@
 This is the code repository for the paper:
 > **PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**
 > 
-> Rui Zhao\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, Zirui Song, Xiuying Chen, [Yang Zhao](https://yangyangkiki.github.io/)\**
+> Rui Zhao\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, Zirui Song, Xiuying Chen, [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>
 >
-> \*Equal contribution. \**Corresponding author. †Project lead.
+> \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2502.14063) [**[Paper with Code]**](https://paperswithcode.com/paper/peddet-adaptive-spectral-optimization-for) **[[HF Paper]](https://huggingface.co/papers/2502.14063)**
 >
