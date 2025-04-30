@@ -3,7 +3,7 @@
 This is the code repository for the paper:
 > **PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**
 > 
-> Rui Zhao\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, Zirui Song, Xiuying Chen, [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>
+> Rui Zhao\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, [Zirui Song](https://ziruisongbest.github.io/), [Xiuying Chen](https://iriscxy.github.io/), [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 > 
