@@ -6,6 +6,8 @@ This is the code repository for the paper:
 > Rui Zhao\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, [Zirui Song](https://ziruisongbest.github.io/), [Xiuying Chen](https://iriscxy.github.io/), [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
+>
+> ***ECAI 2025***
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2502.14063) [**[Paper with Code]**](https://paperswithcode.com/paper/peddet-adaptive-spectral-optimization-for) **[[HF Paper]](https://huggingface.co/papers/2502.14063)**
 >
