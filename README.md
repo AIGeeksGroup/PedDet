@@ -9,7 +9,7 @@ This is the code repository for the paper:
 >
 > ***ECAI 2025 Spotlight***
 > 
-> [**[arXiv]**](https://arxiv.org/abs/2502.14063) [**[Paper with Code]**](https://paperswithcode.com/paper/peddet-adaptive-spectral-optimization-for) **[[HF Paper]](https://huggingface.co/papers/2502.14063)**
+> [**[arXiv]**](https://arxiv.org/abs/2502.14063) [**[Paper with Code]**](https://paperswithcode.com/paper/peddet-adaptive-spectral-optimization-for) [**[HF Paper]**](https://huggingface.co/papers/2502.14063) [**[ECAI Website]**](https://whova.com/embedded/session/JVXs5KgmCmxzJkAj5L3SfkyVHyNPXkIKmKQImTU4EAI%3D/4915672/?widget=primary)
 >
 
 
